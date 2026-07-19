@@ -1,2 +1,10 @@
-Orbit is the Cloud Operations Platform made by Bricks Technologies. It includes both Main & Feature branches updates.
-Create a conflict from main.
+Orbit is the Cloud Operations Platform made by Bricks Technologies.
+## Deployment 
+ 
+Deployment documentation will be added in a future mission. 
+ 
+### Prerequisites 
+ 
+- AWS account 
+- Git 
+- Docker
