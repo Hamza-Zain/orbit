@@ -9,3 +9,7 @@ Deployment documentation will be added in a future mission.
 - Git 
 - Docker
 Test line
+
+## Security 
+ 
+Security guidelines will be added in a future mission. 
