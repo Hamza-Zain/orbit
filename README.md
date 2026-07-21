@@ -18,3 +18,7 @@ For support, contact the Orbit team.
 ## Security 
  
 Security guidelines will be added in a future mission. 
+
+## Monitoring 
+ 
+CloudWatch alarms help monitor the health of Orbit and notify the operations team when predefined thresholds are exceeded. 
