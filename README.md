@@ -24,3 +24,7 @@ Security guidelines will be added in a future mission.
 ## Monitoring 
  
 CloudWatch alarms help monitor the health of Orbit and notify the operations team when predefined thresholds are exceeded. 
+
+## Logging 
+ 
+Orbit stores application logs to simplify monitoring and troubleshooting. 
