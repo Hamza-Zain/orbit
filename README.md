@@ -28,3 +28,7 @@ CloudWatch alarms help monitor the health of Orbit and notify the operations tea
 ## Logging 
  
 Orbit stores application logs to simplify monitoring and troubleshooting. 
+
+## Backup 
+ 
+Orbit supports scheduled backups to protect application data. 
