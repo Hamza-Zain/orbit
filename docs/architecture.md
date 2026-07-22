@@ -1,0 +1,1 @@
+Architecture documentation is maintained separately from the project README. 
