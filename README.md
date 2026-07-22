@@ -1,3 +1,5 @@
+Current Version: v1.0.0 
+
 Orbit is the Cloud Operations Platform made by Bricks Technologies.
 ## Deployment 
  
